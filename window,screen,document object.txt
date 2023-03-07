@@ -1,0 +1,13 @@
+In Javascript "window","screen" and "document" are three objects that represent different parts of the web page and browser.
+1.WINDOW:
+  * The window object represents the browser window that displays the web page.it provide access to the browser features and methods() such as
+  alert(),prompt(),confirm().
+  * The window object also has properties like location history and navigator that provide information aboutcurrent URL,browsing history.
+2.SCREEN:
+  * The screen object represents the physical display screen of the user's device. It provides information about the display properties like width,
+    height, color depth, and pixel density.
+3.DOCUMENT:
+  * The document object represents the web page that is currently loaded in the browser window
+    It provides access to the HTML elements of the page and allows you to manipulate them using JavaScript.
+  
+the window object represents the browser window, the screen object represents the physical display screen, and the document object represents the web page loaded in the browser window.
